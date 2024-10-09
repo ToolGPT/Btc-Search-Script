@@ -1,2 +1,2 @@
-# Btc-Search-Script 1 0
+# Btc-Search-Script 1 2
 Simple Bitcoin search (generator) script
